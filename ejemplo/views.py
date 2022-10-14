@@ -15,3 +15,4 @@ def monstrar_familiares(request):
   return render(request, "ejemplo/familiares.html",
                 {"lista_familiares": lista_familiares}) #diccionario =
                                                         # contexto
+

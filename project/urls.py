@@ -20,8 +20,8 @@ from blog.views import index as blog_index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('saludar/', index),
-    path('mostrar-notas/',index_tres),
+    #path('saludar/', index),
+    #path('mostrar-notas/',index_tres),
     path('mi-familia/', monstrar_familiares), 
     path('blog/',blog_index),
 ]

@@ -1,2 +1,2 @@
 # proyecto_final
-Este es el proyecto final
+Este es el primer MVT, anticipando el proyecto final
